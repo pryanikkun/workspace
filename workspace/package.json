@@ -10,5 +10,13 @@
     "game"
   ],
   "author": "Sophie",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pryanikkun/workspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pryanikkun/workspace/issues"
+  },
+  "homepage": "https://github.com/pryanikkun/workspace#readme"
 }
